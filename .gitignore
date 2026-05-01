@@ -1,0 +1,6 @@
+99-template/node_modules
+06-create-react-app/node_modules
+
+node_modules/
+dist/
+.env
